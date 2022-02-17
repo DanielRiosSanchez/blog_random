@@ -1,3 +1,6 @@
 Histoia de Daniel Ríos Sánchez
 
+Tengo 21 años y estoy aprendiendo a usar git.
+Aprendo a programar en javascript y me cuesta un guebo.
+
 cuentamelo todo please.
